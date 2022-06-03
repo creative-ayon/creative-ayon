@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ayon Baidya
-- 👀 I’m interested in PHP/REACT/ANDROID
-- 🌱 I’m currently learning..
+- 👀 I’m interested in PHP/REACT/ANDROID/JS
 - 📫 How to reach me creative.ayon@gmail.com
 
 <!---
